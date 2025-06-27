@@ -1,1 +1,1 @@
-# HouseHunt
+# HouseHunt frontend
